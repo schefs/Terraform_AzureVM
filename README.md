@@ -1,6 +1,8 @@
 # Terraform_VM
 TF module for Azure VM with a private nic, ssh key setup, and optional data disk on creation
 
+tested on TF 0.12+ versions inclding 0.12 syntax
+
 # Usage example
 
     module "vm" {
